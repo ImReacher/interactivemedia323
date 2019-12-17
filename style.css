@@ -1,0 +1,28 @@
+body{background-image:url('./images/abstract-business-code-270348.jpg')
+
+}
+
+
+
+@font-face {
+2     font-family:GG;
+3     src: url('./GG.ttf')
+}
+
+.q{
+text-shadow:black 5px 5px 2px;
+text-align: center;
+font-size: 40px;
+font-family:GG;
+color: white;
+ }
+
+ .w{
+ 	font-size:22px;
+ 	text-align: center;	
+ 	text-shadow:#f00 2px 2px 2px;
+ color:white;
+
+ }
+
+ a:visited{color: white}
